@@ -1,0 +1,11 @@
+{
+  "name": "@helpdesk/plugin-onboarding",
+  "version": "1.0.0",
+  "description": "Mitarbeiter-Onboarding und -Offboarding Workflows",
+  "main": "index.ts",
+  "helpdesk-plugin": true,
+  "peerDependencies": {
+    "next": ">=14",
+    "react": ">=18"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@helpdesk/plugin-mobile-contracts",
+  "version": "1.0.0",
+  "description": "Mobilfunkverträge, Rechnungen und Kostenstellenauswertung",
+  "main": "index.ts",
+  "helpdesk-plugin": true,
+  "dependencies": {
+    "@types/pdf-parse": "^1.1.5",
+    "pdf-parse": "^1.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "peerDependencies": {
+    "next": ">=14",
+    "react": ">=18"
+  }
+}

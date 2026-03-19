@@ -1,0 +1,11 @@
+{
+  "name": "@helpdesk/plugin-system-maintenance",
+  "version": "1.0.0",
+  "description": "System-Wartung, Backups und Datenbankpflege",
+  "main": "index.ts",
+  "helpdesk-plugin": true,
+  "peerDependencies": {
+    "next": ">=14",
+    "react": ">=18"
+  }
+}

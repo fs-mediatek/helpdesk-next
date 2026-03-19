@@ -1,0 +1,11 @@
+{
+  "name": "@helpdesk/plugin-network-monitor",
+  "version": "1.0.0",
+  "description": "Netzwerk-Geräteüberwachung mit Ping und HTTP-Checks",
+  "main": "index.ts",
+  "helpdesk-plugin": true,
+  "peerDependencies": {
+    "next": ">=14",
+    "react": ">=18"
+  }
+}
